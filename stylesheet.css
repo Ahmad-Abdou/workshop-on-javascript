@@ -1,0 +1,19 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 70%;
+}
+
+tr {
+  height: 150px;
+}
+
+input {
+  border: none;
+  border-color: transparent;
+}
